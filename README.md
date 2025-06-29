@@ -6,9 +6,9 @@ This project is a SQL-based mini data analysis system that simulates the working
 
 ## 📁 Files Included
 
-- `Books.csv` – Dataset containing book details.
-- `Customers.csv` – Dataset containing customer information.
-- `Orders.csv` – Dataset representing book purchase transactions.
+- Books.csv – Dataset containing book details.
+- Customers.csv – Dataset containing customer information.
+- Orders.csv – Dataset representing book purchase transactions.
 – Full SQL script with schema, data import, and solved queries.
 – Version with only the questions for practice.
 
@@ -16,7 +16,7 @@ This project is a SQL-based mini data analysis system that simulates the working
 
 ## 🗃️ Database Structure
 
-**Database Name:** `OnlineBookstore`
+**Database Name:** OnlineBookstore
 
 ### Tables:
 
@@ -65,17 +65,6 @@ This project is a SQL-based mini data analysis system that simulates the working
 - 📌 Orders placed in a specific month.
 
 Each of these queries helps understand relational operations and aggregation in SQL.
-
----
-
-## 🛠️ How to Use
-
-1. Create the database in PostgreSQL or any SQL-compatible environment.
-2. Run the `SOLVED.sql` file to:
-   - Create tables
-   - Import data from CSVs
-   - Execute analysis queries
-3. Modify or add new queries to enhance the project!
 
 ---
 
